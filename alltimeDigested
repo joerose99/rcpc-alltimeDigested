@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Retool App</title>
+</head>
+<body>
+    <iframe src="https://bg360.retool.com/embedded/public/c1ff8664-8859-446b-a330-e2804c065cff" width="100%" height="1000px" style="border:none;"></iframe>
+</body>
+</html>
